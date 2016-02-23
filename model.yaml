@@ -7,6 +7,6 @@ model:
   port: 3306
   user: "root"
   password: "root"
-  schema: "eanproduction"
+  schema: "eanprod"
   type: "mysql"
  script: "MySQL_create_eanprod.sql"
