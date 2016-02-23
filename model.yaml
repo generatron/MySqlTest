@@ -1,12 +1,12 @@
-name: Fashn
-description: A vision board for fashion
+name: Expedia
+description: Traveling
 model:
- packageName : com.generatron.fashn
+ packageName : com.generatron.expedia
  connection :
-  host: "localhost"
-  port: 5306
+  host: "33.33.33.10"
+  port: 3306
   user: "root"
-  password: "fashn123"
-  schema: ""
+  password: "root"
+  schema: "eanproduction"
   type: "mysql"
  script: "MySQL_create_eanprod.sql"
