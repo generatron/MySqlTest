@@ -1,0 +1,12 @@
+name: Fashn
+description: A vision board for fashion
+model:
+ packageName : com.generatron.fashn
+ connection :
+  host: "localhost"
+  port: 5306
+  user: "root"
+  password: "fashn123"
+  schema: ""
+  type: "mysql"
+ script: "MySQL_create_eanprod.sql"
