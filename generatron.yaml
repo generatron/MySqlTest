@@ -16,9 +16,9 @@ git:
 datasources:
  - type: "mysql"
    schema: "eanprod"
-   user: "fashn"
-   password: "fash123"
-   host: "localhost"
+   user: "root"
+   password: "root"
+   host: "33.33.33.10"
    name: "eanprod"
    port: 3306
  - type: "mongodb"
